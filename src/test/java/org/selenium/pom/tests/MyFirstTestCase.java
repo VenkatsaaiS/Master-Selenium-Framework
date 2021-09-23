@@ -74,7 +74,7 @@ public class MyFirstTestCase extends BaseTest {
         Assert.assertEquals(checkoutPage.getSuccessNotice(),"Thank you. Your order has been received.");
 
 
-        System.out.println("Voila...Your Order has been Placed Successfully...Thank you for shopping with us....");
+        System.out.println("Voila.....Your Order has been Placed Successfully.....Thank you for shopping with us....");
 
     }
 
@@ -126,7 +126,7 @@ public class MyFirstTestCase extends BaseTest {
         Assert.assertEquals(checkoutPage.getSuccessNotice(),"Thank you. Your order has been received.");
 
 
-        System.out.println("Voila...Successfully logged in to your account and order has been Placed Successfully..." +
+        System.out.println("Voila....Successfully logged in to your account and order has been Placed Successfully..." +
                 "Thank you for shopping with us....");
     }
 
